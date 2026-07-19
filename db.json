@@ -1,0 +1,17 @@
+{
+  "tarefas": [
+    {
+      "nome": "item 1",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "nome": "item 2"
+    },
+    {
+      "nome": "nova tarefa alterada",
+      "id": "6Zj1tHE"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
