@@ -2,6 +2,10 @@
 
 Este projeto é uma aplicação de introdução ao React desenvolvida no contexto da plataforma TIC em Trilhas. A ideia principal foi construir uma lista de tarefas com conceitos básicos do React, como componentes, estado, contexto, rotas e integração com uma API local.
 
+## 🌐 Projeto publicado
+
+A versão online está disponível em: https://introducao-a-react-lista-de-tarefas.vercel.app/
+
 ## ✨ Funcionalidades
 
 - Adicionar novas tarefas
@@ -53,3 +57,7 @@ O projeto usa uma variável de ambiente para apontar para o backend. Um exemplo 
 ## 📌 Observações
 
 Este projeto foi pensado como um exemplo de aprendizado inicial em React e pode ser usado como base para evoluções futuras.
+
+## 💡 Sobre o aprendizado
+
+Este projeto foi uma ótima oportunidade para entender na prática os conceitos básicos do React, desde a criação de componentes até o uso de estado, contexto e rotas. Também aprendi a importância de organizar a estrutura do projeto, separar responsabilidades e conectar a interface com uma API. Foi um passo importante na minha jornada de estudos e me deu mais confiança para continuar evoluindo como desenvolvedor.
